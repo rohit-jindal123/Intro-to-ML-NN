@@ -30,10 +30,10 @@ the most current information at your fingertips.
 
 
 Resource Folders
-## 1. Scribble Notes: This folder is a direct reflection of our classroom interactions, offering you the raw, unedited insights from each session.
+
+## 1. 5 Minute Summary:
+Here, you'll find concise summaries of our classes, designed to help you quickly recall and review the key concepts we've covered.
 
 
-## 2. 5 Minute Summary: Here, you'll find concise summaries of our classes, designed to help you quickly recall and review the key concepts we've covered.
-
-
-## 3. Interview Questions: This collection is your toolkit for deepening your understanding and testing your knowledge against practical, real-world problems. Please follow the sequence provided for the best learning experience. I'm excited to be part of your learning journey and am
+## 2. Interview Questions:
+This collection is your toolkit for deepening your understanding and testing your knowledge against practical, real-world problems. Please follow the sequence provided for the best learning experience. I'm excited to be part of your learning journey and am
