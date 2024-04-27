@@ -1,8 +1,21 @@
-# Intro-to-ML-NN
+ROHIT JINDAL
 
-Readme
+
 
 Hello, I'm Rohit Jindal, currently serving as a Senior Data Scientist at Target.
+
+# Connect With Me
+
+## Free Resources Community (Whats app)
+https://chat.whatsapp.com/H5pmGAM3BsX4Vzkb9Ve3Su
+
+
+## Linkedin 
+https://www.linkedin.com/in/jindal-rohit540/
+
+
+## Instagram
+https://www.instagram.com/techwith.rohit/
 
 My journey in the data science realm has taken me through some remarkable organizations, including **Mastercard, State Street, and Indian Railways.**
 
