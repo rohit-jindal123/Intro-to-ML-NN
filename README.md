@@ -1,10 +1,8 @@
-ROHIT JINDAL
-
-
-
-Hello, I'm Rohit Jindal, currently serving as a Senior Data Scientist at Target.
 
 # Connect With Me
+
+ROHIT JINDAL
+Hello, I'm Rohit, currently working as a Senior Data Scientist at Target.
 
 ## Free Resources Community (Whats app)
 https://chat.whatsapp.com/H5pmGAM3BsX4Vzkb9Ve3Su
